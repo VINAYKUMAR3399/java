@@ -4,11 +4,11 @@ String branch ="YEALAHANKA";
 System.out.println("BANK BRANCH :"+branch);
 }
 public static void bankUser(){
-String user ="SANTHOSH S";
+String user ="Vinay kumar";
 System.out.println("BANK HOLDER :"+user);
 }
 public static void bankAccountNumber(){
-long accountNumber =159357852456l;
+long accountNumber =852456l159357;
 System.out.println("ACCOUNT NUMBER :"+accountNumber);
 }
 public static void bankIFSECode(){
